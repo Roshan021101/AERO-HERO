@@ -1,3 +1,5 @@
+# write a program to visualize the dataset to gain insights by using matplotlib by plotting scatterplot
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
