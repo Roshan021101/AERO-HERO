@@ -1,3 +1,4 @@
+WAP to implement a linear regression model for regression task and train the model
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
