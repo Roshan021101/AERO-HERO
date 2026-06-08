@@ -1,3 +1,4 @@
+# WAP to implement k nearest neighbour classifier using scikit learn and train the classifier o n the dataset 
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
